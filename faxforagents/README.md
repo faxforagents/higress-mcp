@@ -28,7 +28,7 @@ Fax for Agents is a fax API, a hosted MCP server and SDKs built so AI agents can
 It is made by JSB Holdings LLC.
 
 [mcp-server.yaml](mcp-server.yaml) maps seven REST operations to Higress MCP tools.
-The separate hosted server at `https://mcp.faxforagents.com/mcp` has 15 tools.
+The separate hosted server at `https://mcp.faxforagents.com/mcp` has 17 tools.
 This package calls `https://api.faxforagents.com` directly.
 
 ## Tools
