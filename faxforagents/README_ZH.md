@@ -13,6 +13,7 @@
   <a href="https://faxforagents.com/docs/sdks/">SDK</a> ·
   <a href="https://faxforagents.com/mcp/">MCP</a> ·
   <a href="https://app.faxforagents.com">控制台</a> ·
+  <a href="https://faxforagents.com/pricing/">价格</a> ·
   <a href="https://faxforagents.com/changelog/">更新记录</a>
 </p>
 
